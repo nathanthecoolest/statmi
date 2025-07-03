@@ -1,4 +1,4 @@
-# Mutual Information Estimation Library
+# `statmi` Mutual Information Estimation Library
 
 This Python library provides flexible tools to compute **mutual information (MI)**, **conditional mutual information (CMI)**, and **entropy (H)** using either:
 
@@ -9,7 +9,7 @@ It supports 1D variables, conditional information, and pairwise MI matrix comput
 
 ## Installation
 
-This is a standalone library. To use, clone/download and place the `.py` files in your project.
+This is a standalone library. To use, clone/download and use `pip install ./statmi` in the download directory
 
 Dependencies:
 
